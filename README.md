@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Aditya-Gaur
-- 👀 I’m interested in I.t.
-- 🌱 I’m currently learning Linux,C
-- 💞️ I’m looking to collaborate on projects to sharpen my python
 - 📫 How to reach me gmail : adiarya1031@gmail.com
 
 <!---
