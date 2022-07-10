@@ -24,7 +24,15 @@ const AboutMe = {
     <a href="https://github.com/Aditya-Gaur/Tetris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=Tetris&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
 <a href="https://github.com/Aditya-Gaur/Stone-paper-scissor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=Stone-paper-scissor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
 <a href="https://github.com/Aditya-Gaur/instadm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=instadm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    
+
+### 📁 Future Projects:
+- #### Miscellaneous:
+  - [**HomeSec - A Machine learning based home security system powered by Raspberry pi**](https://www.raspberrypi.org/)
+  - [**PriceDelta - An online price comparision website of sites like Amazon, Flipkart etc**](https://www.amazon.in/)
+  - [**Game-dev -A physics based game using some popular engine(I'll probably make an Ai that plays it for me :p)**](https://unity.com/)
+  - [**Portfolio -A portfolio website to showcase**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
+  - [**Decentralized-irc - A decentralized chatting service**](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+  - [**Lots & lots cybersec projects and AI/ML application projects**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
   
 <h3>Github Stats</h2>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gaur&theme=radical" alt="Aditya-Gaur" />
