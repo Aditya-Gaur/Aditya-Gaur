@@ -32,6 +32,8 @@ const AboutMe = {
   - [**Game-dev -A physics based game using some popular engine(I'll probably make an Ai that plays it for me :p)**](https://unity.com/)
   - [**Portfolio -A portfolio website to showcase**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
   - [**Decentralized-irc - A decentralized chatting service**](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+  - [**DarkSide - A universal dark mode extension**](https://chrome.google.com/webstore/search/dark%20mode?hl=en)
+  - [**ArcIg - A neural network based anime~ish image generator**](https://www.ibm.com/cloud/learn/neural-networks)
   - [**Lots & lots cybersec projects and AI/ML application projects**](https://github.com/Aditya-Gaur/Aditya-Gaur/)
   
 <h3>Github Stats</h2>
