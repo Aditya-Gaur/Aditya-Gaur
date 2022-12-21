@@ -3,7 +3,7 @@
 Aditya-Gaur/Aditya-Gaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Enlo! Adrick here <img src="https://cdn3.emoji.gg/emojis/1463-wave.gif" width="30px" height="50px"></h2>
+<h2 align="left">Enlo! Adrick here <img src="https://media.tenor.com/548Nr-Kf-_IAAAAi/wave-money.gif" width="45px" height="45px"></h2>
 
 
 
@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 const AboutMe = {
   Name: "Aditya Gaur",
   Pronouns: ["He", "Him"],
+  self: "16 smthn autodidact with love for silicon",
   Hobbies: [
     "Making & Tinkering with Stuff", "Programming", "Science" 
   ]
@@ -47,6 +48,8 @@ const AboutMe = {
 
 - Discord - **[Adrick#6640](https://discord.gg/VUJeBAKx)**
 - Instagram - **[adrick._](https://www.instagram.com/adrick._/)**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/662979268673798162?idleMessage=On%20StandBy%20:D)](https://discord.com/users/662979268673798162)
   
 <h3 align="center">Tech Stack</h3>
 
