@@ -46,10 +46,10 @@ const AboutMe = {
 
 <h3> <img src="https://cdn3.emoji.gg/emojis/1831-link-red.png" width="15px" height="15px">  Connect with Me </h3>
 
-- Discord - **[Adrick#6640](https://discord.gg/VUJeBAKx)**
-- Instagram - **[adrick._](https://www.instagram.com/adrick._/)**
+- Discord - **[regirugas](https://discord.gg/VUJeBAKx)**
+- Instagram - **[adrick._](https://www.instagram.com/1adr.ck/)**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/662979268673798162?idleMessage=On%20StandBy%20:D)](https://discord.com/users/662979268673798162)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1018873937381302392)](https://discord.com/users/1018873937381302392)
   
 <h3 align="center">Tech Stack</h3>
 
