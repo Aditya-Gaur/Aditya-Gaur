@@ -46,8 +46,8 @@ const AboutMe = {
 
 <h3> <img src="https://cdn3.emoji.gg/emojis/1831-link-red.png" width="15px" height="15px">  Connect with Me </h3>
 
-- Discord - **[regirugas](https://discord.gg/VUJeBAKx)**
-- Instagram - **[adrick._](https://www.instagram.com/1adr.ck/)**
+- Discord - **[regirugas](https://discord.gg/N3nZN2Nfxs)**
+- Instagram - **[1adr.ck](https://www.instagram.com/1adr.ck/)**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1018873937381302392)](https://discord.com/users/1018873937381302392)
   
