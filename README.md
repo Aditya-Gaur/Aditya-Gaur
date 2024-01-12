@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 const AboutMe = {
   Name: "Aditya Gaur",
   Pronouns: ["He", "Him"],
-  self: "16 smthn autodidact with love for silicon",
+  self: "17 smthn autodidact with love for silicon",
   Hobbies: [
     "Making & Tinkering with Stuff", "Programming", "Science" 
   ]
