@@ -18,17 +18,6 @@ const AboutMe = {
 }
 ```
 
-### 📁 Archived Projects:
-- #### Python:
-  
-  <a href="https://github.com/Aditya-Gaur/FlappyBirdAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=FlappyBirdAi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-  <a href="https://github.com/Aditya-Gaur/Ai-tictactoe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=Ai-tictactoe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-  <a href="https://github.com/Aditya-Gaur/MinesweeperAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=MinesweeperAi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-  <a href="https://github.com/Aditya-Gaur/DiscordRPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=DiscordRPC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-  <a href="https://github.com/Aditya-Gaur/instadm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=instadm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-    <a href="https://github.com/Aditya-Gaur/Tetris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=Tetris&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-<a href="https://github.com/Aditya-Gaur/Stone-paper-scissor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Gaur&repo=Stone-paper-scissor&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="120px"></a>
-
 
 ### 📁 Future Projects:
 - #### Miscellaneous:
